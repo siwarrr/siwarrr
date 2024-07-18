@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siwar</h1>
-<h3 align="center">A passionate IT and Network from Tunisia</h3>
+<h3 align="center">A Teleinformatics Engineer from Tunisia</h3>
 
 - 📫 How to reach me **bensiwar2@gmail.com**
 
