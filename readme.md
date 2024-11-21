@@ -38,6 +38,9 @@
   </a> 
   
   <!-- Backend Frameworks -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
@@ -67,15 +70,4 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
-
-  <!-- NLP and Chatbot Libraries -->
-  <a href="https://rasa.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rasa" width="40" height="40"/> 
-  </a> 
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Spacy_logo.svg" alt="spacy" width="40" height="40"/> 
-  </a> 
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Hugging_Face_logo.svg" alt="huggingface" width="40" height="40"/> 
-  </a>
 </p>
